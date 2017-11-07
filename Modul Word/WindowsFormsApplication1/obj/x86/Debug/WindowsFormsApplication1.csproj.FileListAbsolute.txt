@@ -1,0 +1,92 @@
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\m1keezy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\WindowsFormsApplication21\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\Новая папка (6)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Мои проекты\Новая папка (6)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Мои проекты\c#\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\Прога2\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\stud\Рабочий стол\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Мои проекты\Прога2(V3)\Прога2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
